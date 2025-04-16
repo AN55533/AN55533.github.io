@@ -1,8 +1,8 @@
-👋 Hi, I'm Anju 
+##👋 Hi, I'm Anju 
 
 A passionate full-stack developer
 
-💫 About Me:
+##💫 About Me:
 🎓 I am a MERN stack developer and currently pursuing PG Diploma in Blockchain.
 🌐 I’m skilled in HTML, CSS, JavaScript, and React
 
