@@ -1,4 +1,4 @@
-## Hi, I'm Anju 
+## Hi 👋, I'm ANJU JV
 
 A passionate full-stack developer
 
