@@ -4,7 +4,7 @@ A passionate full-stack developer
 
 
 
-file:///home/anju/Downloads/gith.gif
+home/anju/Downloads/gith.gif
 
 
 
