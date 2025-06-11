@@ -4,7 +4,7 @@ A passionate full-stack developer
 
 
 
-home/anju/Downloads/gith.gif
+![GitHub Animation](./assets/images/github.gif)
 
 
 
