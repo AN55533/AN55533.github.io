@@ -4,7 +4,8 @@ A passionate full-stack developer
 
 
 
-![GitHub Animation](ui/src/assets/images/github.gif)
+
+<img src="ui/src/assets/images/github.gif" alt="GitHub Animation" width="300"/>
 
 
 
