@@ -5,7 +5,7 @@ A passionate full-stack developer
 
 
 
-<img src="ui/src/assets/images/github.gif" alt="GitHub Animation" width="700"/>
+<img src="ui/src/assets/images/github.gif" alt="GitHub Animation" width="500"/>
 
 
 
