@@ -3,6 +3,15 @@
 A passionate full-stack developer
 
 
+
+file:///home/anju/Downloads/gith.gif
+
+
+
+
+
+
+
 ## 🚀 About Me
 🎓 I am a MERN stack developer and currently pursuing PG Diploma in Blockchain.
 🌐 I’m skilled in HTML, CSS, JavaScript, and React
