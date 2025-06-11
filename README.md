@@ -4,7 +4,7 @@ A passionate full-stack developer
 
 
 
-![GitHub Animation](./assets/images/github.gif)
+![GitHub Animation](ui/src/assets/images/github.gif)
 
 
 
